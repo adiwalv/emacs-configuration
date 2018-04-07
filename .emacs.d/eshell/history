@@ -1,0 +1,102 @@
+echo $0
+ls
+ls bin
+mkdir bin 
+emacs bin/eshell
+cd bin/
+chmod +x ~/bin/eshell 
+echo $0
+git status 
+git add .
+git status
+git commit -m "added python related packages and improved paranthesis completion"
+git push -u origin master
+git status
+./k
+rm *
+ls
+ls
+ls
+python k.py 
+cd ../OS/
+ls
+gcc forkc.c 
+./a.out 
+gcc forkc.c 
+./a.out 
+vikas
+sudo apt update
+echo $0
+echo l
+echo prince_backchod
+sudo apt dist-upgrade
+gcc forkc.c 
+./a.out 
+./a.out asd tsd
+gcc forkc.c 
+./a.out asd tsd
+gcc forkc.c 
+./a.out 
+./a.out asd asd
+./a.out asd vikas
+gcc forkc.c 
+./a.out asd vikas
+gcc k.c
+./a.out 
+gcc filesys_file.c 
+gcc filesys_file.c 
+./a.out 
+gcc filesys_file.c 
+./a.out 
+gcc filesys_file.c 
+./a.out 
+gcc filesys_file.c 
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+./a.out 
+gcc a.c
+gcc a.c
+./a.out
+gcc a.c
+./a.out
+gcc a.c
+./a.out
+gcc a.c
+./a.out
+gcc a.c
+./a.out
+gcc a.c
+./a.out
+gcc a.c
+./a.out
+gcc file_sys.c 
+./a.out 
+ghex VHDD 
+pwd 
+ls
+cd 
+mv .emacs1 .emacs
+cd;mv .emacs1 .emacs

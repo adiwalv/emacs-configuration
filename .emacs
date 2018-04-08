@@ -200,13 +200,13 @@
 (define-key global-map (kbd "C-c ;") 'iedit-mode)
 ;;-------------------------------------------------------------------------------------------------------------------------------
 
-;(global-set-key (kbd "M-x") 'smex)
-;(global-set-key (kbd "M-X") 'smex-major-mode-commands)
+(global-set-key (kbd "M-x") 'smex)
+(global-set-key (kbd "M-X") 'smex-major-mode-commands)
 ;; This is your old M-x.
-;(global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
+(global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
 
 (require 'helm-config)
-(global-set-key (kbd "M-x") 'helm-M-x) ;;better completion than smex
+;(global-set-key (kbd "M-x") 'helm-M-x) ;;better completion than smex
 (global-set-key (kbd "C-x C-b") 'helm-buffers-list) ;;better buffer switch mechanism
 (global-set-key (kbd "C-x r b") 'helm-bookmarks)
 (global-set-key (kbd "M-y") 'helm-show-kill-ring)
@@ -271,7 +271,11 @@
 (setq desktop-path (list "~/.emacs_desktop"))
 (desktop-save-mode 1)
 (setq history-length 250)
-   (add-to-list 'desktop-globals-to-save 'file-name-history)
+(add-to-list 'desktop-globals-to-save 'file-name-history)
+
+;;disable splash screen
+(setq inhibit-startup-screen t)
+
 ;;-------------------------------------------------------------------------------------------------------------------------------
 ;suggestions for files
 (ido-mode 1)

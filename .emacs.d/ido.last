@@ -2,24 +2,65 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/" . "vikas/")
+ ("/" . "home/")
+ ("/home/vikas/MEGAsync/SemII/DS/" . "practice/")
+ ("/home/vikas/MEGAsync/SemII/" . "DS/")
+ ("/home/vikas/MEGAsync/" . "SemII/")
  ("/home/vikas/" . "Desktop/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/vikas/"
  "/home/vikas/Desktop/"
+ "/home/vikas/MEGAsync/SemII/DS/practice/"
+ "/home/vikas/MEGAsync/SemII/DS/"
+ "/home/vikas/MEGAsync/SemII/SD/"
+ "/home/vikas/Downloads/"
+ "/home/vikas/MEGAsync/SemII/DS/htmlHyperlink/"
+ "/home/vikas/MEGAsync/SemII/DS/a-simple-filesystem/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs"
+ ".emacs3"
+ "as.c"
+ "g.py"
+ "k.c~"
  "k.c"
+ ".emacs2"
+ "ds.c"
+ "stringto2d.c"
+ "po.c"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/vikas/Desktop/" (23241 13844 396402 648000) "./" "k.c" "../")
+ ("/home/vikas/" (23269 45104 890681 465000) "Desktop/" ".nv/" "MEGAsync/" ".pki/" ".zcompdump" ".config/" ".local/" ".zcompdump-VikasAdiwal-5.4.2" "Downloads/" ".profile" ".emacs" ".gimp-2.8/" ".bash_logout" "lib/" ".fonts/" ".emacs2" "#.emacs2#" ".emacs-saves/" ".npm/" "snap/" "Pictures/" ".emacs.d/" ".themes/" ".ICEauthority" ".ssr/" ".git-credentials" "Android/" "node_modules/" ".gphoto/" ".python_history" ".gvfs/" "Public/" ".vscode/" "Videos/" ".launchpadlib/" ".node_repl_history" ".gradle/" ".bash_history" "Music/" "websites/" "alloy4.2_2015-02-22.jar" ".viminfo" ".zshrc~" ".oh-my-zsh/" ".zsh-update" ".emacs3" ".bashrc" ".thunderbird/" ".zshrc" ".gitconfig" "gofer/" ".dbus/" ".mozilla/" ".sudo_as_admin_successful" ".ssh/" ".nvidia-settings-rc" "Wallpapers/" "AndroidStudioProjects/" "wget-log" ".zshrc.pre-oh-my-zsh" "Documents/" ".emacs_desktop/" ".AndroidStudio3.1/" "./" ".sbd/" "Templates/" ".gnupg/" ".gnome/" "examples.desktop" ".wget-hsts" ".pylint.d/" ".android/" "../" ".java/" "bin/" ".zsh_history" ".gconf/" ".emacs~" ".cache/")
 
- ("/home/vikas/" (23241 14354 186134 849000) "Desktop/" ".nv/" "MEGAsync/" ".pki/" ".zcompdump" ".config/" ".local/" ".zcompdump-VikasAdiwal-5.4.2" "Downloads/" ".profile" ".emacs" ".bash_logout" "lib/" ".npm/" "Pictures/" ".emacs.d/" ".ICEauthority" ".gphoto/" "Public/" "Videos/" ".bash_history" "Music/" "asd" ".zshrc~" ".oh-my-zsh/" ".zsh-update" ".bashrc" ".thunderbird/" ".zshrc" "gofer/" ".dbus/" ".mozilla/" ".sudo_as_admin_successful" ".ssh/" "Wallpapers/" ".zshrc.pre-oh-my-zsh" "Documents/" "./" "Templates/" ".gnupg/" ".gnome/" "examples.desktop" ".wget-hsts" "../" ".zsh_history" ".gconf/" ".cache/")
+ ("/home/vikas/Desktop/" (23269 45116 590313 812000) "k.c~" "./" "as.c" "../" "g.py")
+
+ ("/home/vikas/MEGAsync/SemII/DS/a-simple-filesystem/" (23265 31043 3461 16000) "file_sys.c" "a.out" "without_allocation_table.c" "bit.c" "simple_fs.c" "README.md" "./" "../")
+
+ ("/home/vikas/Downloads/" (23269 40879 377649 582000) "split_string.c" "215_6306.torrent" "AdmitCardFinalShow.pdf" "185_5911.torrent" "thread.c" "217_csz.docx" "basicThread.c" "thread (1).c" "matrixAdd.c" "FinalEteTimeTableMay18.pdf" "340_wQ0.torrent" "201_5926.torrent" "./" "thread2.c" "227_6240.torrent" "207_5959.torrent" "../" "The.Shape.of.Water.2017.1080p.BluRay.x264-SPARKS[rarbg]/")
+
+ ("/home/vikas/.emacs-saves/" (23269 42013 681269 382000) "!home!vikas!MEGAsync!SemII!DS!a-simple-filesystem!file_sys.c.~1~" "!home!vikas!Desktop!k.c.~4~" "!home!vikas!.zshrc.~2~" "!home!vikas!Desktop!k.c.~5~" "!home!vikas!Desktop!kc.c.~2~" "!home!vikas!.emacs.~43~" "!home!vikas!.emacs.~2~" "!home!vikas!.emacs.d!ido.last~" "!home!vikas!Desktop!kc.c.~1~" "!home!vikas!Desktop!sd.c.~3~" "!home!vikas!MEGAsync!SemII!DS!input.html.~2~" "!home!vikas!.emacs.~47~" "!home!vikas!Desktop!k.c.~6~" "!home!vikas!MEGAsync!SemII!DS!practice!ds.c.~1~" "!home!vikas!Desktop!sd1.c.~1~" "!home!vikas!.emacs.~1~" "!home!vikas!Desktop!sd.c.~2~" "!home!vikas!Desktop!j.js.~1~" "!home!vikas!MEGAsync!SemII!DS!html_hyperlink.c.~2~" "!home!vikas!.emacs2.~1~" "!home!vikas!Desktop!sd1.c.~2~" "!home!vikas!MEGAsync!SemII!DS!input.html.~1~" "!home!vikas!Desktop!k.c.~1~" "!home!vikas!Desktop!as.c.~1~" "!home!vikas!.emacs.~44~" "!home!vikas!Desktop!o.c.~1~" "!home!vikas!Desktop!lily.c.~1~" "!home!vikas!MEGAsync!SemII!SD!array.html.~1~" "!home!vikas!MEGAsync!SemII!DS!htmlHyperlink!substring.c.~1~" "!home!vikas!Desktop!jh.html.~2~" "!home!vikas!Desktop!as.c.~2~" "!home!vikas!.emacs.~45~" "!home!vikas!Desktop!jh.html.~1~" "!home!vikas!Desktop!sd.c.~4~" "!usr!share!applications!emacs25.desktop.~1~" "./" "!home!vikas!Desktop!k.py.~1~" "!home!vikas!MEGAsync!SemII!DS!html_hyperlink.c.~1~" "!home!vikas!MEGAsync!SemII!DS!practice!po.c.~1~" "!home!vikas!.emacs.~46~" "!home!vikas!.zshrc.~1~" "#!home!vikas!.emacs.d!ido.last#" "!home!vikas!Desktop!p.py.~1~" "!home!vikas!Desktop!k.c.~3~" "!home!vikas!Desktop!sd.c.~1~" "../" "!usr!share!applications!emacs25.desktop.~2~" "!home!vikas!.emacs.~42~" "!home!vikas!Desktop!k.py.~2~" "!home!vikas!Desktop!k.c.~2~")
+
+ ("/home/vikas/MEGAsync/SemII/DS/practice/" (23269 41556 218009 868000) "po.c" "a.out" "dictionary.c" "#g.cpp#" "link.c" "g.cpp~" "#3feb_test.c#" "k.c~" "equil.c" "pointer.c" "./" "3feb_test.c~" "g.cpp" "k.c" "ds.c" "../" "locks.c" "3feb_test" "next.c" "3feb_test.c" "dictionary.c~")
+
+ ("/home/" (23240 64899 634390 90000) "vikas/" "./" "../")
+
+ ("/home/vikas/MEGAsync/SemII/DS/" (23265 31275 988056 597000) "a.out" "htmlHyperlink/" "dictionary.c" "output.html" "input.html" "filesys_file.c" "g.c" "practice/" "hm.html" "k.py" "a-simple-filesystem/" "./" "stringto2d.c" "html_hyperlink.c" "../")
+
+ ("/home/vikas/MEGAsync/" (23266 5780 530842 133000) "SemII/" "Welcome to MEGA.pdf" "ref.pdf" "config_files/" ".debris/" "theorems.pdf" "./" "Sem1/" "material.zip" "backup/" "../" "Books/")
+
+ ("/home/vikas/MEGAsync/SemII/SD/" (23258 31815 512970 5000) "3March.html" "10March.html" "array.html" "classssssssss.html" "cookie.html" "html2.html" "./" "confirm1.html" "practice.html" "confirmation.html" "k.c" "../")
+
+ ("/home/vikas/MEGAsync/SemII/DS/htmlHyperlink/" (23248 14874 653676 569000) "a.out" "output.html" "input.html" "substring.c" "./" ".git/" "html_hyperlink.c" "../")
+
+ ("/home/vikas/MEGAsync/SemII/" (23241 12559 281144 517000) "LLP/" "SOP/" "./" "DS/" "NM/" "SD/" "OS/" "../")
 )
 
 ;; ----- ido-unc-hosts-cache -----

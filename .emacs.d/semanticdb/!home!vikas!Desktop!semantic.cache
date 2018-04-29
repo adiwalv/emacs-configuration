@@ -1,0 +1,19 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode c-mode
+      :tags 
+        '( ("stdio.h" include (:system-flag t) nil [1 18])
+            ("stdlib.h" include (:system-flag t) nil [19 37])
+            ("main" function (:type "int") nil [38 67]))          
+      :file "k.c"
+      :pointmax 70
+      :fsize 69
+      :lastmodtime '(23267 4675 509110 240000)
+      :unmatched-syntax '((punctuation 19 . 20) (symbol 10 . 13) (punctuation 9 . 10) (symbol 2 . 9) (punctuation 1 . 2))))
+  :file "!home!vikas!Desktop!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

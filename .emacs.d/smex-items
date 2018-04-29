@@ -1,0 +1,25 @@
+
+;; ----- smex-history -----
+(
+ flycheck-verify-setup
+ flycheck-select-checker
+ flycheck-disable-checker
+ package-install
+ flymake-cursor-mode
+ eshell
+ literate-haskell-mode
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 5)
+ (eshell . 16)
+ (clean-buffer-list . 1)
+ (jedi:install-server . 1)
+ (menu-bar-mode . 1)
+ (literate-haskell-mode . 1)
+ (flymake-cursor-mode . 2)
+ (flycheck-verify-setup . 11)
+ (flycheck-disable-checker . 5)
+ (flycheck-select-checker . 5)
+)

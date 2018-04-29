@@ -1,102 +1,128 @@
-echo $0
-ls
-ls bin
-mkdir bin 
-emacs bin/eshell
-cd bin/
-chmod +x ~/bin/eshell 
-echo $0
-git status 
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+gcc html_hyperlink.c 
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
+gcc html_hyperlink.c 
+./a.out
 git add .
 git status
-git commit -m "added python related packages and improved paranthesis completion"
-git push -u origin master
-git status
-./k
-rm *
-ls
-ls
-ls
-python k.py 
-cd ../OS/
-ls
-gcc forkc.c 
+git commit -m "added logic for finding occurences of headers"
+git commit -m "added logic for finding occurences of headers"
+git add .
+git commit -m "added logic for finding occurences of headers"
+gcc substring.c 
 ./a.out 
-gcc forkc.c 
 ./a.out 
-vikas
-sudo apt update
-echo $0
-echo l
-echo prince_backchod
-sudo apt dist-upgrade
-gcc forkc.c 
+gcc substring.c 
+gcc substring.c 
+gcc html_hyperlink.c 
 ./a.out 
-./a.out asd tsd
-gcc forkc.c 
-./a.out asd tsd
-gcc forkc.c 
+gcc html_hyperlink.c 
 ./a.out 
-./a.out asd asd
-./a.out asd vikas
-gcc forkc.c 
-./a.out asd vikas
-gcc k.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc filesys_file.c 
-gcc filesys_file.c 
+gcc html_hyperlink.c 
 ./a.out 
-gcc filesys_file.c 
+gcc html_hyperlink.c 
 ./a.out 
-gcc filesys_file.c 
+gcc html_hyperlink.c 
 ./a.out 
-gcc filesys_file.c 
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc substring.c  
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc html_hyperlink.c 
 ./a.out 
-gcc a.c
+gcc kc.c 
 ./a.out 
-gcc a.c
-gcc a.c
+gcc o.c 
 ./a.out
-gcc a.c
-./a.out
-gcc a.c
-./a.out
-gcc a.c
-./a.out
-gcc a.c
-./a.out
-gcc a.c
-./a.out
-gcc a.c
-./a.out
-gcc file_sys.c 
+gcc sd.c
 ./a.out 
-ghex VHDD 
-pwd 
-ls
-cd 
-mv .emacs1 .emacs
-cd;mv .emacs1 .emacs
+gcc sd.c
+cd Desktop/
+gcc sd.c 
+./a.out 
+gcc sd.c 
+./a.out 
+gcc sd.c 
+gcc sd.c 
+./a.out 
+gcc sd.c 
+./a.out 
+gcc sd.c 
+./a.out 
+gcc sd.c 
+./a.out 
+./a.out 
+cd Desktop/
+gcc sd.c
+./a.out 
+gcc sd1.c
+./a.out 
+gcc sd1.c
+./a.out 
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+gcc po.c
+./a.out 
+screenfetch
+neofetch
+lsb_release -a
+gcc stringto2d.c 
+./a.out
+which cpplint 

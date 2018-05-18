@@ -1,6 +1,6 @@
 # My Emacs config
 
-Change emacs and emacs.d to `.emacs` and `.emacs.d`.
+Change `emacs` and `emacs.d` to `.emacs` and `.emacs.d`.
 
 Copy these two things in your Home directory and voila you have your emacs setup!
 

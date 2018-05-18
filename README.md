@@ -1,7 +1,9 @@
 # My Emacs config
 
-`.emacs` is for my personal configuration of emacs
-and `.emacs.d` is the respective folder.
+Change emacs and emacs.d to `.emacs` and `.emacs.d`.
+
+Copy these two things in your Home directory and voila you have your emacs setup!
+
 
 There is an icon set included at `.emacs.d/emacs.iconset/emacs.iconset`
 

@@ -1,0 +1,55 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat May 19 18:09:37 2018
+;; Desktop file format version 208
+;; Emacs version 25.2.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23296 6921 852051 852000) (desktop . "208") "vikas@VikasAdiwal" nil nil ((((tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "#f8f8f2") (cursor-color . "#ccccc7") (background-color . "#000000") (tool-bar-lines . 0) (powerline-cache) (font . "tty") (height . 23) (width . 80) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "51DB-FEDA-9575-7A1A") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 4) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 80) (pixel-height . 22) (total-width . 80) (total-height . 22) (normal-height . 1.0) (normal-width . 1.0) (buffer "update_plymouth" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("elpy" "cppli"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/vikas/Desktop/k.py" "/home/vikas/Desktop/as.c" "/home/vikas/.emacs" "/home/vikas/Desktop/as.c" "/home/vikas/Desktop/k.py" "/home/vikas/.emacs" "/home/vikas/Desktop/as.c"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/vikas/MEGAsync/config_files/update_plymouth"
+  "update_plymouth"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode flycheck-mode company-mode autopair-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vikas/Desktop/k.py"
+  "k.py"
+  'python-mode
+  '(eldoc-mode auto-complete-mode yas-minor-mode flycheck-mode company-mode elpy-mode highlight-indentation-mode autopair-mode anaconda-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix))
+  '((mark-ring (1 1))))
+
+(desktop-create-buffer 208
+  "/home/vikas/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(auto-complete-mode yas-minor-mode flycheck-mode company-mode autopair-mode)
+  11665
+  '(5935 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (5913 3411 3410 2808 3410))))
+

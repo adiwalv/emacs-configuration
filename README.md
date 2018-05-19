@@ -8,6 +8,9 @@ To enable google-style-code check, install cpplint using
 
 ``
 	sudo apt-get -y install python-pip
+``
+
+``
 	sudo pip install cpplint
 ``
 

@@ -1,10 +1,9 @@
 # My Emacs config
 
-Change `emacs`,`emacs.d`,`emacs-saves`,`emacs-desktop` to `.emacs`,`.emacs.d`,`.emacs-saves` and `.emacs-desktop` respectively.
 
 Copy these four things in your Home directory and voila you have your emacs setup!
 
-To enable google-style-code check, install cpplint using 
+To enable google-style-code check, install cpplint using, for debian-based distros: 
 
 ``
 	sudo apt-get -y install python-pip
@@ -13,6 +12,18 @@ To enable google-style-code check, install cpplint using
 ``
 	sudo pip install cpplint
 ``
+
+For fedora:
+
+
+``
+	sudo dnf -y install python-pip
+``
+
+``
+	sudo pip install cpplint
+``
+
 
 
 There is an icon set included at `.emacs.d/emacs.iconset/emacs.iconset`

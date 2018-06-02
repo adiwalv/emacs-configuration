@@ -12,8 +12,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/vikas/Desktop/"
  "/home/vikas/"
+ "/home/vikas/Desktop/"
  "/home/vikas/MEGAsync/SemII/DS/practice/"
  "/home/vikas/MEGAsync/SemII/DS/"
  "/home/vikas/MEGAsync/SemII/SD/"
@@ -24,13 +24,13 @@
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs"
+ "k.c"
  "k.py"
  "as.c"
- ".emacs"
  ".emacs3"
  "g.py"
  "k.c~"
- "k.c"
  ".emacs2"
  "ds.c"
  "stringto2d.c"
@@ -38,9 +38,9 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/vikas/Desktop/" (23295 54198 734041 335000) ".emacs.zip" "emacs/" "./" ".#as.c" "../")
+ ("/home/vikas/" (23314 28035 398485 82000) ".config/" "Desktop/" ".oh-my-zsh/" ".local/" "AndroidStudioProjects/" ".esd_auth" ".AndroidStudio3.1/" "Pictures/" "./" ".emacs-saves/" ".pki/" "../" ".zsh-update" ".gnome/" "Documents/" ".java/" ".dir_colors" ".zsh_history" "Develop/" ".emacs" "LED/" ".android/" ".wget-hsts" ".bash_logout" "Public/" ".emulator_console_auth_token" ".bash_profile" "Music/" ".gradle/" "Wallpapers/" ".esmtp_queue/" "MEGAsync/" ".emacs_desktop/" "Videos/" ".viminfo" ".emacs.d/" "VirtualBox VMs/" "Downloads/" "Android/" ".bashrc" ".zshrc.pre-oh-my-zsh" "Templates/" ".cache/" ".ICEauthority" ".mozilla/" ".zcompdump-vikasadiwal-5.5.1" ".zshrc" ".bash_history")
 
- ("/home/vikas/" (23295 53967 422038 600000) ".gnupg/" "lib/" ".git-credentials" "examples.desktop" ".keras/" ".designer/" ".zshrc.swp" ".mozilla/" ".cache/" ".gimp-2.8/" "node_modules/" ".gvfs/" ".vmware/" "MEGAsync/" ".zcompdump" "Downloads/" "cool-retro-term/" ".git/" "Public/" ".bashrc" ".dbus/" ".thumbnails/" "GNUstep/" ".dir_colors/" ".wget-hsts" "tensorflow/" ".android/" ".ICEauthority" ".nvidia-settings-rc" ".bash_history" ".zcompdump-VikasAdiwal-5.4.2" ".config/" ".profile" ".gnuplot_history" ".upterm/" "gofer/" "./" ".emacs" "Documents/" "Pictures/" ".zsh-update" ".python_history" "src/" "Music/" ".java/" "snap/" ".oh-my-zsh/" ".cargo/" ".sudo_as_admin_successful" "Wallpapers/" ".local/" ".gconf/" ".nv/" ".gnome/" ".ssr/" ".zsh_history" "Android/" "wget-log" ".zshrc.pre-oh-my-zsh" ".multirust/" "Desktop.lock~" ".pki/" ".emacs_desktop/" "AndroidStudioProjects/" "bin/" "Templates/" "Videos/" ".ssh/" "alloy4.2_2015-02-22.jar" ".zshrc" ".AndroidStudio3.1/" ".emacs-saves/" ".rustup/" ".FBReader/" ".qt-license" ".gphoto/" ".emacs.d/" "../" "websites/" ".hgrc" ".gradle/" ".viminfo" ".zprofile" ".zshrc.swo" "VirtualBox VMs/" ".gitconfig" ".bash_logout" "Desktop/" ".mozbuild/")
+ ("/home/vikas/Desktop/" (23306 46297 926361 830000) "./" "../")
 
  ("/home/" (23293 52718 610060 293000) "vikas/" "./" "../")
 

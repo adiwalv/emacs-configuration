@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Jun  2 16:03:09 2018
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23314 29285 81390 42000) (desktop . "208") "vikas@vikasadiwal" nil nil ((((font-backend xft x) (font . "-ADBO-Source Code Pro-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Source Code Pro 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#f8f8f2") (background-color . "#282a36") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 0) (alpha) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#ccccc7") (sticky) (environment) (powerline-cache) (frameset--id . "4E34-101D-CFA4-5901") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (user-size . t) (visibility . t) (height . 30) (width . 133) (left + -1) (top + -1)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 9) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 88) (min-pixel-width . 100) (min-pixel-height-ignore . 66) (min-pixel-width-ignore . 90) (min-pixel-height-safe . 22) (min-pixel-width-safe . 20)) leaf (pixel-width . 1366) (pixel-height . 644) (total-width . 136) (total-height . 29) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 18214) (start . 17350))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("elpy" "cppli"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/vikas/.emacs" "/home/vikas/Desktop/k.c" "/home/vikas/Desktop/k.py" "/home/vikas/Desktop/as.c" "/home/vikas/.emacs" "/home/vikas/Desktop/as.c" "/home/vikas/Desktop/k.py" "/home/vikas/.emacs" "/home/vikas/Desktop/as.c"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/vikas/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(auto-complete-mode yas-minor-mode flycheck-mode company-mode autopair-mode)
+  18214
+  '(18213 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (27 1 17351 18082 17973 18083 17973 8573 3 18214 18214))))
+
+(desktop-create-buffer 208
+  "/home/vikas/Desktop/k.c"
+  "k.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode flymake-mode flycheck-mode company-mode autopair-mode)
+  85
+  '(90 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (70 1 85 85))))
+

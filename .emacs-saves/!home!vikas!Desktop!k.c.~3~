@@ -1,0 +1,7 @@
+// Copyright 2018 geeky punekar
+#include<stdlib.h>
+#include<stdio.h>
+int main() {
+  
+  return 0;
+}

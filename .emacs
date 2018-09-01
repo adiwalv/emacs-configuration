@@ -2,7 +2,7 @@
 
 ;;; .emacs --- Initialization file for Emacs
 ;;; Commentary: Emacs Startup File --- initialization for Emacs
-;;; Author --- Vikas Adiwal
+;;; Author --- Samiksha Bagmar
 
 ;;; Commentary:
 
